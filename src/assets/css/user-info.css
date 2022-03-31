@@ -1,0 +1,913 @@
+.card-design {
+    background-color: #F8F8F8;
+    border: 1px solid #D1D1D1;
+    border-radius: 4px;
+    opacity: 1;
+    height: 80px;
+    /* width: 418px; */
+    margin-right: 20px;
+    padding-top: 22px;
+    padding-left: 18px;
+    padding-right: 12px;
+}
+
+.support-tag-hover {
+    cursor: pointer;
+}
+
+.document-dashh {
+    text-align: right;
+    justify-content: flex-end;
+    font-size: 23px;
+    cursor: pointer;
+    line-height: 24px;
+}
+
+.card-design-dash {
+    background-color: #F8F8F8;
+    border: 1px solid #D1D1D1;
+    margin-left: 9px;
+    border-radius: 4px;
+    opacity: 1;
+    height: 80px;
+    /* width: 418px; */
+}
+
+
+
+.row-css {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+
+}
+
+.label-b-userinformation {
+    position: absolute;
+    top: 43%;
+    font-size: 30px;
+    font-weight: bold;
+    left: 17px;
+}
+
+.card-mecicals {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.agrred-terms {
+    margin-left: 9px;
+    color: white;
+}
+
+.img-firstslider {
+    height: 492px;
+}
+
+.video-edited {
+    margin-top: 77px;
+}
+
+.planningtext {
+    /* margin-bottom:41px; */
+}
+
+.planning-unlimited-height {
+    height: 317px;
+}
+
+.plann-subscrioption {
+    height: 384px;
+}
+
+.pricing-plans-spaces {
+    margin-top: 46px;
+    margin-bottom: 61px;
+}
+
+.label-right-userinformation {
+    position: absolute;
+    right: 17px;
+    font-size: 11px;
+    top: 54%;
+}
+
+.selected-chelboxed {
+    color: red;
+}
+
+.checks-style {
+    margin-top: 12px;
+}
+
+.labelrr-userinformation {
+    position: absolute;
+    right: 17px;
+    font-size: 11px;
+    top: 52%;
+
+}
+
+
+
+.label-d-userinformation {
+    position: absolute;
+    right: 18px;
+    font-size: 33px;
+    font-weight: bold;
+    top: 45%;
+}
+
+.label-edit-userinformation {
+    position: absolute;
+    right: 18px;
+    font-size: 33px;
+    font-weight: bold;
+    top: 42%;
+    /* left: 79%; */
+}
+
+.label-l-userinformation {
+    position: absolute;
+    top: 51%;
+    left: 19px;
+    font-size: 13px;
+}
+
+.for-active-dashboard {
+    color: white;
+    margin-bottom: 4px !important;
+    border-bottom: 2px solid red;
+}
+
+.for-active-userinformation {
+    color: white;
+    margin-bottom: 4px !important;
+    border-bottom: 2px solid red;
+}
+
+
+.for-active-subscription {
+    color: white;
+    margin-bottom: 4px !important;
+    border-bottom: 2px solid red;
+}
+
+
+
+.aligntxt {
+    text-align: end;
+}
+
+.share-info {
+    text-align: center;
+    margin-top: 10px;
+
+    padding-right: 36px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.share-basement {
+    text-align: center;
+    margin-top: 10px;
+
+    padding-right: 40px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+/* .weight-placeholder
+{
+    margin-top: 16px !important;
+} */
+.aligment {
+    margin-left: 20px;
+}
+
+
+.mt-9 {
+    margin-top: 9px;
+}
+
+.mt-18 {
+    margin-top: 18px;
+}
+
+.select-serach {
+    padding-left: 10px;
+}
+
+.col-number {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+    padding-left: 11px;
+    font-weight: bold;
+}
+
+.col-number-house {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+    padding-right: 51px;
+    font-weight: bold;
+}
+
+.col-number-pets {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+    padding-right: 61px;
+    font-weight: bold;
+}
+
+.ant-input-affix-wrapper {
+    padding: 7px 10px !important;
+    border-radius: .25rem !important;
+}
+
+.ant-input::placeholder {
+    color: #495057 !important;
+}
+
+.not-msg {
+    font-size: 11px;
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+
+    margin-bottom: 12px;
+
+}
+
+.icon-pass {
+    margin-top: 16px;
+}
+
+.col-number-contsruction {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+    padding-right: 64px;
+    font-weight: bold;
+}
+
+.information-selcected {
+    width: 308px;
+}
+
+.col-number-bedroom {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+    padding-left: 8px;
+    font-weight: bold;
+}
+
+.col-handicapped {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.label-b {
+    position: absolute;
+    top: 45%;
+    font-size: 30px;
+    font-weight: bold;
+    left: 17px;
+}
+
+.label-l {
+    position: absolute;
+    top: 52%;
+    left: 19px;
+    font-size: 13px;
+}
+
+.label-a {
+    position: absolute;
+    left: 47%;
+    bottom: 28px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.label-d {
+    position: absolute;
+    right: 21px;
+    position: absolute;
+    font-size: 33px;
+    font-weight: bold;
+    top: 45%;
+}
+
+.label-right {
+    position: absolute;
+    right: 19px;
+    position: absolute;
+    font-size: 11px;
+    top: 53%;
+}
+
+.label-front {
+    position: absolute;
+    left: 46%;
+    bottom: 19px;
+    font-size: 11px;
+}
+
+.label-c {
+    position: absolute;
+    top: 5px;
+    font-size: 30px;
+    left: 44%;
+    font-weight: bold;
+}
+
+.label-back {
+    position: absolute;
+    top: 41px;
+    font-size: 12px;
+    left: 43%;
+}
+
+.position-relative {
+    position: relative;
+}
+
+.mt-40 {
+    padding-top: 40px;
+}
+
+.marg-bott {
+    margin-bottom: 12px;
+    margin-top: 18px;
+}
+
+.marg-bott-save {
+    margin-bottom: 12px;
+    margin-top: 36px;
+}
+
+.marg-construction {
+    margin-bottom: 12px;
+    margin-top: 31px;
+}
+
+.marg-handicapeed {
+    margin-bottom: 12px;
+    margin-top: 29px;
+}
+
+.marg-basement {
+    margin-bottom: 12px;
+    margin-top: 28px;
+}
+
+.marg-shareinfo {
+    margin-bottom: 12px;
+    margin-top: 24px;
+}
+
+.table-order {
+    margin-left: 41px;
+}
+
+.table-order-modal {
+    margin-left: 0px;
+}
+
+.main-bk {
+    background-color: #EBEBEB;
+    opacity: 1
+}
+
+.ant-radio-inner {
+    border-radius: 0px !important;
+}
+
+.ant-radio-checked .ant-radio-inner {
+
+    background-color: #2B398F !important;
+    border-color: #2B3990 !important;
+}
+
+.ant-radio-inner::after {
+    content: "" !important;
+    padding: 2px !important;
+    text-align: center !important;
+    position: absolute !important;
+    width: 7px !important;
+    height: 11px !important;
+    border: 1px solid white !important;
+    background-color: transparent !important;
+    border-width: 0 2px 2px 0 !important;
+    transform: rotate(45deg) !important;
+    -webkit-transform: rotate(45deg) !important;
+    -ms-transform: rotate(45deg) !important;
+    top: 0px !important;
+    left: 4px !important;
+}
+
+.err-message-infor {
+    text-align: center;
+    color: red;
+    font-size: 12px;
+}
+
+.select-options {
+    width: 241px;
+}
+
+.userinfo-input {
+    width: 241px;
+    height: 41px;
+    border-radius: 2px;
+    font-size: 14px;
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+.select-options-const-medical {
+    width: 305px;
+    height: 43px;
+}
+
+.select-options-const-medical::placeholder {
+    width: 204px;
+    color: black !important;
+    opacity: 0.5 !important;
+    font-size: 14px;
+    padding-left: 6px;
+}
+
+.select-options-medical {
+    width: 204px;
+    height: 43px;
+}
+
+.select-options::placeholder {
+    width: 204px;
+    color: black !important;
+    opacity: 0.5 !important;
+    font-size: 14px;
+    opacity: 0.5 !important;
+    padding-left: 6px;
+}
+
+.select-options-medical::placeholder {
+    width: 204px;
+    color: black !important;
+    opacity: 0.5 !important;
+    font-size: 14px;
+    padding-left: 6px;
+}
+
+.age-place::placeholder {
+    font-size: 12px !important;
+}
+
+.carousel-indicators {
+    margin-left: 18%;
+}
+
+.ant-checkbox-checked::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 1px solid white !important;
+    border-radius: 2px;
+    visibility: visible !important;
+    -webkit-animation: antCheckboxEffect 0.36s ease-in-out;
+    animation: antCheckboxEffect 0.36s ease-in-out;
+    -webkit-animation-fill-mode: backwards;
+    animation-fill-mode: backwards;
+    content: '';
+}
+
+.age-place {
+    margin: auto;
+    height: 59px;
+    border-radius: 6px !important;
+    font-size: 16px !important;
+    height: 41px !important
+}
+
+.yellow {
+    margin-top: 22px;
+    margin-left: 11px;
+    /* cursor: pointer; */
+}
+
+.table-tag {
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    height: 77px;
+    width: 587px;
+}
+
+.table-tag-information {
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    height: 77px;
+    background-color: white;
+}
+
+.tables-tags-information {
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    height: 122px;
+    background-color: white;
+    width: 100%;
+}
+
+.con-css {
+    margin-top: 44px;
+    padding-bottom: 18px;
+    max-width: 1276px;
+}
+
+.table {
+    margin-bottom: 0rem !important;
+}
+
+.required-info {
+    padding-top: 22px;
+    font-size: 25px;
+    padding-left: 58px;
+    margin-bottom: 19px;
+    color: black;
+}
+
+.table-bordered {
+    border: 13px solid #C0C3C7;
+}
+
+
+.table-hover tbody tr:hover {
+    background-color: white;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: white;
+}
+
+.table-bor {
+    width: 35px;
+    height: 33px;
+    background-color: white;
+}
+
+.ant-select-show-search.ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+    cursor: text;
+    height: 41px !important;
+}
+
+.serahaddress .ant-select-selector {
+    padding: 0px !important;
+    border: none !important;
+    height: 31px !important;
+    outline: 0 !important;
+}
+
+.serahaddress .ant-select-show-search.ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+    padding: 0px !important;
+    border: none !important;
+    height: 31px !important;
+    outline: 0 !important;
+}
+
+
+.serahaddress .ant-select-focused:not(.ant-select-disabled) .ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+    padding: 0px !important;
+    border-color: none !important;
+    height: 31px !important;
+    outline: 0 !important;
+}
+
+.serahaddress .ant-select-selector,
+.serahaddress .ant-select-show-search.ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+    padding: .375rem .75rem !important;
+    height: 38px !important;
+}
+
+.serahaddress .ant-select-single.ant-select-show-arrow .ant-select-selection-placeholder {
+    padding-left: 0px !important;
+    padding-top: 0px !important;
+}
+
+.serahaddress .ant-select-single .ant-select-selector .ant-select-selection-search {
+    left: 0px !important;
+
+}
+
+.serahaddress .form-control:focus {
+    border-color: transparent;
+    box-shadow: none;
+}
+
+.serahaddress .ant-select-single.ant-select-show-arrow .ant-select-selection-placeholder:focus {
+    border-color: transparent;
+    box-shadow: none;
+    outline: 0;
+
+}
+
+
+
+
+
+
+.serahaddress .ant-select:not(.ant-select-disabled):hover .ant-select-selector {
+    border-color: transparent;
+    outline: 0;
+}
+
+.serahaddress .ant-select:not(.ant-select-disabled):active .ant-select-selector {
+    border-color: transparent;
+    outline: 0;
+}
+
+
+.ant-select-single .ant-select-selector .ant-select-selection-placeholder {
+
+    line-height: 25px !important;
+}
+
+.serahaddress .ant-select:not(.ant-select-disabled):focus .ant-select-selector {
+    border-color: transparent;
+    outline: 0;
+}
+
+.ant-select-single:not(.ant-select-customize-input) .ant-select-selector .ant-select-selection-search-input {
+    height: 38px !important;
+    padding-left: 12px !important;
+
+}
+
+.ant-select-single.ant-select-show-arrow .ant-select-selection-item,
+.ant-select-single.ant-select-show-arrow .ant-select-selection-placeholder {
+    padding-right: 19px !important;
+    padding-left: 7px !important;
+    padding-top: 5px !important;
+}
+
+
+/* .ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+   
+   border: 0px solid !important;
+    
+}
+
+
+.ant-select:not(.ant-select-disabled):hover .ant-select-selector {
+    border-color: none;
+    border-right-width: 0px!important;
+} */
+
+
+
+
+.ant-select-selection-placeholder {
+    color: #000 !important;
+    /* margin-left: 6px; */
+    opacity: .5;
+    margin-top: 1px;
+
+
+}
+
+
+.ant-checkbox+span {
+    padding-right: 8px;
+    padding-left: 5px !important;
+}
+
+.ant-checkbox-checked .ant-checkbox-inner {
+    background-color: #2B398F !important;
+    border-color: #2B3990 !important;
+}
+
+
+.ant-switch-checked .ant-switch-handle::before {
+    background-color: green !important;
+    border: 1px solid green !important;
+}
+
+.ant-switch-handle {
+    top: 2px !important;
+    width: 16px !important;
+    height: 15px !important;
+}
+
+.ant-switch-handle::before {
+
+    background-color: grey !important;
+
+}
+
+.err-msg-medical {
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+
+.ant-switch {
+    background-color: white !important;
+    border: 1px solid grey !important;
+}
+
+.ant-switch-checked {
+    background-color: white !important;
+    border: 1px solid green !important;
+}
+
+.ant-select-single.ant-select-show-arrow .ant-select-selection-item,
+.ant-select-single.ant-select-show-arrow .ant-select-selection-placeholder {
+    padding-right: 18px !important;
+    padding-left: 4px !important;
+    padding-top: 3px !important;
+}
+
+.save-button {
+    background-color: #2B3990 !important;
+    color: white !important;
+    width: 129px;
+    height: 38.90px;
+}
+
+.medical-history {
+    padding-top: 22px;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 45px;
+    margin-bottom: 19px;
+    color: black;
+}
+
+.table-resixe {
+    max-width: 612px;
+    height: 512px;
+}
+
+.table-information-res {
+    max-width: 536px;
+    height: 399px;
+}
+
+.table-information-res-modal {
+    height: 399px;
+}
+
+.add-new-button {
+    color: #2B3990 !important;
+}
+
+.add-button-col {
+    text-align: end;
+
+    padding-right: 73px;
+
+    margin-top: 17px;
+}
+
+.add-button-information {
+    text-align: end;
+    padding-right: 2px;
+}
+
+.medical-col {
+    padding-left: 59px;
+
+    padding-right: 72px;
+}
+
+.medical-body {
+    padding-left: 40px !important;
+    background-color: #F5F5F5;
+    border-radius: 6px;
+    opacity: 1;
+    height: 285px;
+    margin-top: 17px;
+}
+
+.text-name-medical {
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.text-name-medical-history {
+    color: black;
+    text-decoration: underline;
+    margin-top: 23px;
+    font-size: 14px;
+}
+
+.age {
+    color: #000000;
+    text-decoration: underline;
+    padding-right: 6px;
+    font-size: 14px;
+}
+
+.ageee {
+    padding-left: 17px;
+    margin-top: 19px;
+}
+
+.years {
+    font-weight: bold;
+    color: #000000;
+    opacity: 1;
+    font-size: 14px;
+}
+
+.text-name-medical-text {
+    color: black;
+    opacity: 1;
+    margin-top: 7px;
+    font-size: 14px;
+}
+
+a:active {
+
+    outline: 0;
+    color: white !important;
+}
+
+.forgotpassword:hover {
+    color: white !important;
+}
+
+.img-wrap {
+    position: relative;
+    font-size: 0;
+}
+
+.img-wrap .close {
+    position: absolute;
+    top: 21px;
+    right: 4px;
+    z-index: 100;
+    background-color: #FFF;
+    padding: 5px 2px 2px;
+    color: #000;
+    /* font-weight: bold; */
+    cursor: pointer;
+    height: 18px;
+    opacity: 1;
+    text-align: center;
+    font-size: 20px;
+    line-height: 3px;
+    border-radius: 50%;
+}
+
+.viewtitle {
+    margin-left: 3px;
+}
+
+.please-upload {
+    padding-left: 11px;
+}
+
+
+.StripeElement,
+.StripeElementIdeal {
+    display: block;
+    margin: 10px 0 20px 0;
+    padding: 10px 14px;
+    border-radius: 4px;
+    background: white;
+    border: 1px solid white;
+}
+
+.StripeElement--focus,
+.StripeElementIdeal--focus {
+    border-color: black;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075),
+        0 0 0 3px rgb(206, 213, 232);
+    outline: none;
+}
+
+.viiii {
+    max-width: 600px;
+}
+
+.StripeElement.loading {
+    height: 41.6px;
+    opacity: 0.6;
+}
+
+.StripeElementIdeal {
+    padding: 0;
+}
+
+.videocredit {
+    justify-content: center;
+}

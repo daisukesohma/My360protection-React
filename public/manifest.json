@@ -1,0 +1,15 @@
+{
+  "short_name": "Assets Management",
+  "name": "Assets Management",
+  "icons":[
+    {
+      "src":"./assets/Logo.png",
+      "sizes":"100x100",
+      "type":"images/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,272 @@
+.information-row {
+    height: 141px;
+    background-color: #fff;
+    background-clip: border-box;
+
+}
+
+.information-firstresponser {
+    height: 141px;
+    background-color: #F6E7CE;
+    background-clip: border-box;
+}
+
+.plavetop {
+    padding-top: 19px;
+}
+
+.edit-fileds-medil {
+    padding-top: 7px;
+}
+
+.startedbuttons {
+    margin-top: 13px;
+}
+
+.message-support {
+    border-color: grey !important;
+    border-radius: 6px !important;
+    height: 103px !important;
+    margin: auto;
+}
+
+.message-support::placeholder {
+
+    font-size: 12px;
+    padding-left: 0px;
+    opacity: 1;
+
+}
+
+
+
+.information-selcect {
+    width: 200px;
+}
+
+.information-input {
+    width: 200px;
+    height: 41px;
+    border-radius: 2px;
+    font-size: 14px;
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+.hear-about-us {
+    padding-top: 14px;
+}
+
+.hear-select {
+    width: 100%;
+}
+
+.gas-meter {
+    color: black;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.electric-meter {
+
+    color: black;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.table-styling {
+    background-color: white;
+}
+
+.number-of-pets {
+    padding-left: 84px
+}
+
+.ro-handicapped {
+    padding-left: 119px;
+}
+
+.required-info-row {
+    height: auto;
+    background-color: #fff;
+    background-clip: border-box;
+
+    margin-top: 30px;
+    padding-bottom: 10px;
+
+}
+
+.required-info-reponser {
+    height: auto;
+    background-color: #F6E7CE;
+    background-clip: border-box;
+
+    margin-top: 30px;
+    padding-bottom: 10px;
+}
+
+.medicalhistroy {
+    padding-left: 26px !important;
+    background-color: #F5F5F5;
+    border-radius: 6px;
+    opacity: 1;
+    height: 247px;
+}
+
+.medical-history-responsive {
+    background: #FFF5E5 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+    padding-left: 26px !important;
+    height: 247px;
+}
+
+.nametags {
+    color: #A7A9AC;
+    opacity: 1;
+}
+
+.edit-profile {
+    padding-top: 15px;
+}
+
+.buttons-response-icons {
+    float: right;
+    padding-right: 1px;
+}
+
+.edit-icon-medical-history {
+    text-align: end;
+}
+
+.editt-images {
+    width: 14px;
+
+    cursor: pointer;
+    margin-right: 9px;
+}
+
+.trash-images {
+
+    width: 12px;
+
+    height: 15px;
+    cursor: pointer;
+
+}
+
+.cardd-css {
+    width: 100%;
+    border: 0px solid !important;
+}
+
+.temedical-history {
+    color: black;
+    text-decoration: underline;
+    margin-top: 13px;
+    font-size: 14px;
+}
+
+.card-medical-fileds {
+    margin-top: 13px;
+}
+
+.col-req {
+    padding-top: 37px;
+}
+
+.col-requested {
+    padding-top: 51px;
+}
+
+.conatiner-information {
+    max-width: 1731px;
+    margin: auto;
+    padding-top: 63px;
+    padding-bottom: 10px;
+}
+
+.inform-col {
+    text-align: end;
+    padding-top: 11px;
+
+    margin-left: 0px;
+}
+
+.edit-icon-info {
+    height: 13px;
+    width: 16px;
+    cursor: pointer;
+}
+
+.styl-info-row {
+    padding-top: 32px;
+    padding-left: 85px;
+}
+
+.txt-name-info {
+    font-size: 28px;
+    color: black;
+    font-weight: bold;
+}
+
+.emial {
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-weight: bold;
+}
+
+.email-address {
+    color: #000000;
+    text-decoration: underline;
+    font-size: 10px;
+}
+
+.column-required-info {
+    padding-left: 22px;
+}
+
+.number-of {
+    letter-spacing: 0px;
+    color: #000000;
+    text-decoration: underline;
+    font-size: 12px;
+}
+
+.code-number {
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.box-imnages {
+    padding-left: 3px !important;
+}
+
+.Pay-button {
+    color: white !important;
+    background-color: red !important;
+    width: 86px;
+    height: 32px;
+    border: 1px solid red;
+}
+
+.error-credit {
+    color: red;
+    font-size: 15px;
+}
+
+.ant-popover-inner-content {
+    padding-top: 5px !important;
+    padding-left: 12px !important;
+    padding-right: 10px !important;
+    padding-bottom: 0px !important;
+}
+
+.cardetails {
+    color: red;
+    padding-left: 15px;
+}

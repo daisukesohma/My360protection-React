@@ -1,0 +1,173 @@
+.welcome-name
+{
+
+padding-left: 41px;
+    font-size: 19px;
+    padding-top: 9px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-style: bold;
+    font-weight: bold;
+}
+.images-container
+{
+    margin-top: 35px;
+    max-width: 1591px;
+    padding-bottom: 5px;
+
+}
+.images-container-subscriptionplan
+{
+    margin-top: 35px;
+    max-width: 1591px;
+    padding-bottom: 5px;
+}
+.containe-home
+{
+    max-width: 1566px;
+}
+
+.err-message
+{
+    text-align: center;
+    color: red;
+    margin-top: 6px;
+    font-size: 12px;
+}
+
+.house{
+    height: 41px;
+  
+    margin-top: -7px;
+    /* margin-right: 10px; */
+}
+/* .houseed
+{
+    height: 41px;
+  
+    margin-top: -41px;
+    margin-right: 0px;
+} */
+.card-types
+{
+    background-color: #F8F8F8;
+    border: 1px solid #D1D1D1;
+    border-radius: 4px;
+    opacity: 1;
+    height: 80px;
+    width: 362px;
+    margin-right: 20px;
+    padding-top: 22px;
+    padding-left: 18px;
+    padding-right: 12px;
+}
+.button-images
+{
+    border-radius: 2px;
+    background-color: #2B3990 !important;
+    opacity: 1;
+    color: white !important;
+    width: 106px;
+    
+}
+.cards-borders
+{
+    box-shadow: 0px 3px 6px #00000029;
+    border: None !important;
+}
+.card-typesss
+{
+    background-color: #F8F8F8;
+    border: 1px solid #D1D1D1;
+    border-radius: 4px;
+    opacity: 1;
+    height: 80px;
+    width: 353px;
+    margin-right: 0px;
+    padding-top: 22px;
+    padding-left: 17px;
+    padding-right: 12px;
+}
+.text-single
+{
+    text-align: left;
+    letter-spacing: 0px;
+    font-weight: bold;
+    color: #000000;
+    opacity: 1;
+}
+.tags-house
+{
+font-size:12px;
+color: black;
+text-decoration: underline;
+margin-top: -6px;
+padding-right: 8px;
+
+
+}
+.numbers-icon
+{
+    text-align: end;
+    font-size: 25px;
+    margin-top: -6px;
+    padding-right: 1px;
+}
+.gallery
+{
+    
+    height: 41px;
+    margin-left: 11px;
+    margin-top: -7px;
+}
+.border-styling
+{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+opacity: 1;
+height:57px;
+}
+.getstarted
+{
+    background-color: red !important;
+    color: white !important;
+    border: 1px solid red !important;
+    width: 144px !important;
+}
+
+.choosee
+{
+    text-align:center;
+    margin-top:38px;
+    font-size:26px;    
+}
+.baisc-plan
+{
+    margin-top:23px;
+}
+.basiciplan
+{
+ border-bottom: 1px solid red;
+ color: black;
+ font-size: 24px;
+}
+.plannumber
+{
+    color:black;
+    font-size:24px;
+    font-weight:bold;
+}
+.getstart
+{
+    margin-top:40px;
+}
+.numm
+{
+    margin-top:49px;
+}
+.txtxt
+{
+    text-align:center;
+    font-size:13px;
+}
